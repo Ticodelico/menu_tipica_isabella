@@ -1,0 +1,267 @@
+{
+    "general": [
+    {
+      "name": "Salchipapas",
+      "description": "Papas, salchichas, salsa de tomate y mayonesa.",
+      "price": "1800"
+    },
+    {
+      "name": "Papicarne",
+      "description": "Papas, Carne, Salsa de Tomate y Mayonesa.",
+      "price": "2000"
+    },
+    {
+      "name": "Salchipapicarne",
+      "description": "Papas, Salchichas, Carne Mechada, Salsa de Tomate y Mayonesa.",
+      "price": "2500"
+    },
+    {
+      "name": "Papa Suprema",
+      "description": "Papas, frijoles, Carne Mechada, Salsa de Tomate, Mayonesa y Salsa de Queso. ",
+      "price": "2000"
+    },
+    {
+      "name": "Papi Nacho",
+      "description": "Papas,Tortillas, Frijoles, Carne Mechada, Chimichurri, Salsa De Tomate, Mayoneas y Salsa de queso.",
+      "price": "3500"
+    },
+    {
+      "name": "Nachos",
+      "description": "Tortillas, Frijoles, Carne Mechada, Chimichurri, Salsa De Tomate, Mayoneas y Salsa de queso.",
+      "price": "2000"
+    },
+    {
+      "name": "Nachos",
+      "description": "Tortillas, Frijoles, Carne Mechada, Chimichurri, Salsa De Tomate, Mayoneas y Salsa de queso.",
+      "price": "2000"
+    },
+    {
+      "name": "Patacones Especiales",
+      "description": "5 Unidades, Frijoles, Carne Mechada, Chimichurri, Salsa De Tomate, Mayoneas y Salsa de queso.",
+      "price": "2500"
+    },
+    {
+      "name": "Hamburguesa Sencilla",
+      "description": "Torta,  lechuga, Tomate, Salsa De Tomate, Mayonesa y Salsa de queso.",
+      "price": "1000"
+    },
+    {
+      "name": "Hamburguesa Con Papas",
+      "description": "Torta,  lechuga, Salsa De Tomate, Mayonesa y Salsa de queso y PAPAS.",
+      "price": "1000"
+    },
+    {
+      "name": "Queso Hamburguesa Sencilla",
+      "description": "Torta,  lechuga, Tomate,  Salsa De Tomate, Mayonesa y Queso Amarillo.",
+      "price": "1250"
+    },
+    {
+      "name": "Hamburguesa Especial",
+      "description": "Torta,  lechuga, Tomate,  Salsa De Tomate, Mayonesa y Jamón, Tocineta, Queso Blanco, Salsa de Queso Y PAPAS.",
+      "price": "1250"
+    },
+    {
+      "name": "IsaHamburguesa",
+      "description": "Doble Torta,  lechuga, Tomate,  Salsa De Tomate, Mayonesa y Jamón, Tocineta, Queso Blanco, Salsa de Queso Y PAPAS.",
+      "price": "1250"
+    },
+    {
+      "name": "Taco  Sencillo",
+      "description": "1 taco,  repollo, Salsa De Tomate, Mayonesa  Y papas.",
+      "price": "1500"
+    },
+    {
+      "name": "Taco Doble",
+      "description": "2 tacos,  repollo, Salsa De Tomate, Mayonesa  Y papas.",
+      "price": "2000"
+    },
+    {
+      "name": "Taco Doble",
+      "description": "2 tacos,  repollo, Salsa De Tomate, Mayonesa  Y papas.",
+      "price": "2000"
+    },
+    {
+      "name": "IsaChalupa Sencilla",
+      "description": "2 Tortillas, Frijoles, Carne Mechada, Ensalada de Lechuga, Chimichurri, Salsa De Tomate, Mayonesa y Salsa de queso.",
+      "price": "1500"
+    },
+    {
+      "name": "IsaChalupa Especial",
+      "description": "2 Tortillas, Frijoles, Carne Mechada, Ensalada de Lechuga, Chimichurri, Salsa De Tomate, Mayonesa y Salsa de queso y PAPAS.",
+      "price": "2000"
+    },
+    {
+      "name": "Burrito Sencillo",
+      "description": "Carne o Pollo, frijoles, lechuga, chimichurri, Salsa De Tomate, Mayonesa, salsa de queso.",
+      "price": "1000"
+    },
+    {
+      "name": "Burrito Sencillo con Papas",
+      "description": "Carne o Pollo, frijoles, lechuga, chimichurri, Salsa De Tomate, Mayonesa, salsa de queso Y papas.",
+      "price": "1500"
+    },
+    {
+      "name": "Burrito Mixto",
+      "description": "Carne Y Pollo, frijoles, lechuga, chimichurri, Salsa De Tomate, Mayonesa, salsa de queso Y papas.",
+      "price": "1800"
+    },
+    {
+      "name": "Burrito Especial",
+      "description": "Carne Y Pollo, frijoles, lechuga, chimichurri, Salsa De Tomate, Mayonesa, queso blanco Y papas.",
+      "price": "2000"
+    }
+    ,
+    {
+      "name": "Surtido",
+      "description": "Hamburguesa, 1 Taco sencillo, nachos, raspas, papicarne.  ",
+      "price": "7000"
+    }
+  ],
+    "casados": [
+      {
+        "name": "Carne En Salsa",
+        "description": "Arroz, Frijoles, Esnsalada, Maduro",
+        "price": "2000"
+      },
+      {
+        "name": "Pollo En Salsa",
+        "description": "Arroz, Frijoles, Esnsalada, Maduro",
+        "price": "2000"
+      },
+      {
+        "name": "Casado",
+        "description": "Chuleta, Bisteck, Fillet De Pollo",
+        "price": "2500"
+      },
+      {
+        "name": "Casado con Costilla- Lengua",
+        "description": "",
+        "price": "3000"
+      },
+      {
+        "name": "Casado con Fillet De Pescado",
+        "description": "Arroz, Frijoles, Ensalada, Maduro Mas acompañamiento del día",
+        "price": "3500"
+      },
+      {
+        "name": "Olla de Carne",
+        "description": "Solo los viernes",
+        "price": "2500"
+      }
+    ],
+    "desayunos": [
+      {
+        "name": "Gallo Pinto",
+        "description": "Carne En Salsa",
+        "price": "2000"
+      },
+      {
+        "name": "Gallo Pinto ",
+        "description": "Lengua, Chuleta, Bistec, Filet de Pollo",
+        "price": "2500"
+      },
+      {
+        "name": "Adicionales",
+        "description": "Huevo, Queso, Salchichón, Natilla",
+        "price": "500"
+      }
+    ],
+    "sandwiches": [
+      {
+        "name": "Sandwich",
+        "description": "Carne ó Pollo",
+        "price": "1500"
+      },
+      {
+        "name": "Sandwich Súper 1",
+        "description": "Carne, Pollo , Jamón, Tocineta.",
+        "price": "2500"
+      },
+      {
+        "name": "Sandwich Súper 2",
+        "description": "Carne, Pollo , Jamón, Tocineta, Papas con Carne Mechada",
+        "price": "2500"
+      }
+    ],
+    "gallos": [
+      {
+        "name": "Gallos de Lengua Sencillos",
+        "description": "",
+        "price": "1500"
+      },
+      {
+        "name": "Gallos de Lengua Arreglados",
+        "description": "",
+        "price": "2000"
+      },
+      {
+        "name": "Gallos Con Carne En Salsa Sencillos",
+        "description": "",
+        "price": "1250"
+      },
+      {
+        "name": "Gallos Con Carne En Salsa Arreglados",
+        "description": "",
+        "price": "1750"
+      } ,
+      {
+        "name": "Gallos de Salchichón",
+        "description": "",
+        "price": "1000"
+      },
+      {
+        "name": "Gallos de Salchichón Arreglado",
+        "description": "",
+        "price": "1500"
+      },
+      {
+        "name": "Gallos de Pollo Sencillos",
+        "description": "",
+        "price": "1500"
+      },
+      {
+        "name": "Gallos de Pollo Arreglado",
+        "description": "",
+        "price": "1500"
+      }
+    ],
+    "drinks": [
+      {
+        "name": "Frutas",
+        "price": "600",
+        "category": "drink"
+      },
+      {
+        "name": "Chan",
+        "price": "600",
+        "category": "drink"
+      },
+      {
+        "name": "Piña",
+        "price": "600",
+        "category": "drink"
+      },
+      {
+        "name": "Piña con Arroz",
+        "price": "600",
+        "category": "drink"
+      },
+      {
+        "name": "Linaza",
+        "price": "600",
+        "category": "drink"
+      },
+      {
+        "name": "Café Negro",
+        "price": "600",
+        "category": "drink"
+      }
+      ,
+      {
+        "name": "Café con Leche",
+        "price": "750",
+        "category": "drink"
+      }
+    ]
+  }
+  
