@@ -1,1 +1,0 @@
-# menu_tipica_isabella
