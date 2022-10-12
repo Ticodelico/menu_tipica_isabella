@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/menu_tipica_isabella/static/css/main.073c9b0a.css",
+    "main.js": "/menu_tipica_isabella/static/js/main.843ff89f.js",
+    "static/js/787.d346b263.chunk.js": "/menu_tipica_isabella/static/js/787.d346b263.chunk.js",
+    "static/media/logo.svg": "/menu_tipica_isabella/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/menu_tipica_isabella/index.html",
+    "main.073c9b0a.css.map": "/menu_tipica_isabella/static/css/main.073c9b0a.css.map",
+    "main.843ff89f.js.map": "/menu_tipica_isabella/static/js/main.843ff89f.js.map",
+    "787.d346b263.chunk.js.map": "/menu_tipica_isabella/static/js/787.d346b263.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.843ff89f.js"
+  ]
+}
